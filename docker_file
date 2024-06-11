@@ -1,0 +1,7 @@
+ getting-started-app/
+ .dockerignore
+ package.json
+ README.md
+ spec/
+ src/
+ yarn.lock
